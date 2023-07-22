@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  button {
+    width: 100px;
+    background-color: rgb(255, 149, 0);
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
+  #outputTemperature {
+    font-weight: bold;
+  }
